@@ -52,7 +52,7 @@ There are:
 
 Security headers are defined in _headers.
 
-If you identify a vulnerability, please contact: team@caribbeantechcollective.com
+If you identify a vulnerability contact: team@caribbeantechcollective.com
 
 ---
 
