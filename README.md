@@ -43,14 +43,7 @@ Changes are version controlled and deployed through the main branch.
 
 ## Security
 
-This is a static deployment with no stored user data.
-
-There are:
-- No secrets committed
-- No environment variables
-- No backend processing layer
-
-Security headers are defined in _headers.
+This is a static deployment with no stored user data. Security headers are defined in _headers.
 
 If you identify a vulnerability contact: team@caribbeantechcollective.com
 
